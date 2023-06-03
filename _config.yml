@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "장수경"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "미래 빅데이터 전문가"
   location         : "Suwon City"
   email            :
@@ -291,5 +291,7 @@ defaults:
       share: true
       related: true
       show_date : true
+      sidebar:
+        nav: "docs"
 
 date_format: "%Y년-%m월-%d일"
