@@ -4,6 +4,23 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
+  - title: "검색"
+    url: /search/
+docs:
+  - title: "공부"
+    children:
+      - title: "Python"
+        url: /python/
+      - title: "Github"
+        url: /github/
+  - title: "프로젝트"
+    children:
+      - title: "프로젝트"
+        url: /project/
+      - title: "미니프로젝트"
+        url: /miniproject/
+      - title: "Kaggle"
+        url: /kaggle/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
