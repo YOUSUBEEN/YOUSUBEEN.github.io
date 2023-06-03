@@ -13,7 +13,7 @@ docs:
         url: /python/
       - title: "Github"
         url: /github/
-  - title: "프로젝트"
+  - title: "프로젝트 및 대회"
     children:
       - title: "프로젝트"
         url: /project/
