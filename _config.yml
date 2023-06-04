@@ -294,7 +294,5 @@ defaults:
       toc: true
       toc_sticky: true
       toc_label: 목차
-      sidebar:
-        nav: "docs"
 
 date_format: "%Y년-%m월-%d일"
