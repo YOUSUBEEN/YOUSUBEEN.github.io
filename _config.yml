@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Subeen's Blog"
 title_separator          : "|"
-subtitle                 : "미래 빅데이터 전문가 개발자 노트" # site tagline that appears below site title in masthead
+subtitle                 : "미래 빅데이터 전문가" # site tagline that appears below site title in masthead
 name                     : "유수빈"
 description              : "미래 빅데이터 전문가"
 url                      : "https://YOUSUBEEN.github.io"
