@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "유수빈"
-  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/chipmunk-7494440_1280.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "미래 빅데이터 전문가"
   location         : "Suwon City"
   email            :
